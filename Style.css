@@ -16,7 +16,7 @@ body{
 
 .container{
     width: 1000px;
-    height: 475px;
+    height: 476px;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.189);
@@ -45,7 +45,7 @@ margin-top: 0px;
 
 }
 .main-form .one{
-    padding: 15px;
+    padding: 16px;
 }
 .main-form .one input{
     height: 40px;
@@ -160,7 +160,7 @@ button:hover{
     }
     .container .left .main-form input{
         background-color: #0f966015;
-        width: 300px;
+        width: 301px;
     
     }
   
@@ -227,7 +227,7 @@ button:hover{
   
     .container .left {
       width: 100%;
-      padding: 15px;
+      padding: 16px;
     }
   
     .main-form {
