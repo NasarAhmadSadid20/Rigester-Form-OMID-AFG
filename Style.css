@@ -17,16 +17,16 @@ body{
 .container{
     width: 1001px;
     height: 479px;
-    border-radius: 10px;
+    border-radius: 11px;
     overflow: hidden;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.189);
     display: flex;
 }
 .container .right{
-    background: linear-gradient(180deg,rgb(0, 88, 67) 20%, rgba(1, 122, 84, 0.833) 70% );
+    background: linear-gradient(181deg,rgb(0, 88, 67) 20%, rgba(1, 122, 84, 0.833) 70% );
     width: 300px;
     height: 100%;
-    border-radius: 30px 10px 10px 30px;
+    border-radius: 30px 12px 10px 30px;
     overflow: hidden;
 }
 .container .left{
@@ -60,9 +60,9 @@ margin-top: 0px;
 }
 select{
     width: 200px;
-    height: 40px;
+    height: 41px;
     padding: 5px;
-    margin-top: 20px;
+    margin-top: 21px;
     border: none;
     border-radius: 7px;
     outline-color: rgb(7, 135, 90);
@@ -89,7 +89,7 @@ select{
     border: none;
     background-color: rgb(6, 135, 96);
     color: white;
-    font-size: 25px;
+    font-size: 24px;
     border-radius: 5px;
 }
 button:hover{
