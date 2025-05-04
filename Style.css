@@ -17,7 +17,7 @@ body{
 .container{
     width: 1001px;
     height: 479px;
-    border-radius: 11px;
+    border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.189);
     display: flex;
@@ -48,7 +48,7 @@ margin-top: 0px;
     padding: 16px;
 }
 .main-form .one input{
-    height: 40px;
+    height: 41px;
     padding: 5px;
     margin-top: 20px;
     border: none;
